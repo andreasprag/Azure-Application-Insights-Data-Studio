@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+  },
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Azure Application Insights",
+    "logoUrl": "INSERT LOGO URL HERE",
+    "company": "COMPANY",
+    "companyUrl": "https://website.com/",
+    "addonUrl": "https://website.com/",
+    "supportUrl": "https://website.com/",
+    "description": "Azure Application Insights",
+    "sources": ["npm"],
+    "templates": {
+      "default": "1twu0sHjqR5dELAPyGJcw4GS3-D0_NTrQ"
+    }
+  }
+}
